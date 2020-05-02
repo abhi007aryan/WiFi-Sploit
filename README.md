@@ -4,7 +4,6 @@
 
 The WiFi-Sploit Framework is an open-source exploitation framework dedicated to embedded devices.
 
-[![asciicast](https://asciinema.org/a/180370.png)](https://asciinema.org/a/180370)
 
 It consists of various modules that aids penetration testing operations:
 
