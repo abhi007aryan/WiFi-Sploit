@@ -2,7 +2,7 @@
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-yellow.svg)](http://www.python.org/download/)
 
-The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.
+The WiFi-Sploit Framework is an open-source exploitation framework dedicated to embedded devices.
 
 [![asciicast](https://asciinema.org/a/180370.png)](https://asciinema.org/a/180370)
 
